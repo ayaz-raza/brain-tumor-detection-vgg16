@@ -53,3 +53,17 @@ Global Average Pooling
     Sigmoid Output
             ↓
     Tumor / No Tumor
+
+## Results Visualization
+
+### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+### ROC Curve
+
+![ROC Curve](roc_curve.png)
+
+### Grad-CAM Explainability
+
+![Grad-CAM](gradcam.png)
