@@ -54,6 +54,8 @@ Global Average Pooling
             ↓
     Tumor / No Tumor
 
+```
+
 ## Results Visualization
 
 ### Confusion Matrix
